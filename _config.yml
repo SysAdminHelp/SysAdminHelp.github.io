@@ -18,7 +18,7 @@ linkedin_username: "daniel-marshak"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "Cayman"
+theme: "cayman"
 
 rss: rss
 
