@@ -1,0 +1,10 @@
+## Greetings!
+
+I hope you enjoy this blog as it gets updated with content going forward. This blog will cover various topics regarding System Administration that I learn about over time.
+
+---
+
+### Check each day
+
+Make sure to check each day what might be posted!
+
