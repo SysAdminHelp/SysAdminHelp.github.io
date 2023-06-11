@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community
+title: Community Hub
 ---
 ## Professional IT Career Development Community
 
