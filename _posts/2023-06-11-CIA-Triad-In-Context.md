@@ -1,5 +1,5 @@
 
-
+## CIA Triad: Context and Examples 
 
 The CIA triad consists of three fundamental principles in information security: Confidentiality, Integrity, and Availability. Let's break down each principle and provide examples of both logical and physical controls for each:
 
