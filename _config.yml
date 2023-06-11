@@ -1,13 +1,12 @@
 # Site settings
-title: "My Blog's Name"
-author: "Default Author Name"
+title: "SysAdminHelp"
+author: "SysAdminHelp"
 description: "Some short description of your blog can go here."
 
 # Email / Social media usernames
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "daniel.marshak@gmail.com"
+github_username: "SysAdminHelp"
+linkedin_username: "daniel-marshak"
 
 # Build settings
 theme: minima
