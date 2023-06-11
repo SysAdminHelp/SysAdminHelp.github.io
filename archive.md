@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Test Archive
-title2: About
 ---
-
-<h2>{{ page.title }}</h2>
-<a href="/about.html">About</a>
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
