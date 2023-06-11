@@ -2,12 +2,14 @@
 layout: page
 title: About
 ---
-<p>My name is Daniel, a skilled and dedicated Junior System Administrator with a deep passion for System Administration and IT Operations. With a strong background in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting, I possess valuable expertise in managing complex systems and optimizing network infrastructure.
+<p>I am Daniel, a dedicated Junior System Administrator with a strong passion for System Administration and IT Operations. I have accumulated valuable experience working in small and mid-sized businesses, where I have honed my skills in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting.
 
-Throughout my career, I have primarily focused on providing exceptional support and administration in diverse environments, ranging from small and mid-sized businesses to enterprise-level organizations. I have successfully administered Office Suite/Office 365, overseeing critical operations and ensuring seamless productivity for end-users. Additionally, I have demonstrated proficiency in managing enterprise servers, including the HP NonStop system, UNIX/Linux systems, and Windows systems, guaranteeing the stability and reliability of essential services.
+Throughout my career, I have had the opportunity to administer Office Suite/Office 365 and support the IT infrastructure of SMBs. By managing enterprise servers and smaller computer networks, I have gained hands-on experience in maintaining the stability and functionality of critical systems.
 
-My hands-on experience has equipped me with the ability to effectively troubleshoot and resolve intricate technical issues, minimizing downtime and enhancing operational efficiency. By leveraging my strong problem-solving skills, I have consistently delivered innovative solutions to optimize system performance, bolster security measures, and streamline IT operations.
+While my experience has primarily been in SMBs, I am open to exploring opportunities in enterprise environments to further expand my knowledge and skills. I believe my expertise in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting can be effectively applied to larger-scale operations.
 
-Passionate about staying up-to-date with the latest advancements in the field, I continuously expand my knowledge base to adapt to emerging technologies and industry trends. I am committed to maintaining a proactive approach, identifying opportunities for process improvement and implementing best practices to drive organizational success.
+My proficiency in troubleshooting and resolving technical issues has allowed me to minimize downtime and optimize operational efficiency. I take pride in my ability to adapt quickly, identify opportunities for improvement, and implement effective solutions tailored to the specific needs of organizations.
 
-Overall, my well-rounded skill set, combined with my genuine enthusiasm for System Administration, enables me to make a positive impact on complex IT environments while delivering exceptional results for the organizations I serve.</p>
+I stay abreast of industry developments and emerging technologies to ensure that I provide the best possible support and deliver innovative solutions. My dedication to continuous learning and professional growth enables me to meet the evolving IT needs of businesses, streamline processes, and enhance overall productivity.
+
+As a Junior System Administrator with experience in SMBs and a willingness to embrace enterprise opportunities, I am well-equipped to handle a variety of IT environments and contribute to the success of organizations through reliable system administration and IT operations</p>
