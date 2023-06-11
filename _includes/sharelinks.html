@@ -19,7 +19,7 @@
 </style>
 
 {% assign safeurl = site.url | append: page.url | url_encode %}
-{% assign safetitlepre = " " | append: page.author | append: " - " | url_encode %}
+{% assign safetitlepre = " " | append: page.title2 | append: " - " | url_encode %}
 
 <span style="color: silver;">Share on: </span><div id="share-buttons">
   <div class="facebook" title="Share this on Facebook"    onclick="window.open('http://www.facebook.com/share.php?u={{ safeurl }}','popup','width=600,height=600'); return false;">
