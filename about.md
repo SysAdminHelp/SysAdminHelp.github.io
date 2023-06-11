@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me 
 ---
 <p>My name is Daniel and I am a dedicated Junior System Administrator with a strong passion for System Administration and IT Operations. I have accumulated valuable experience working in small and mid-sized businesses, where I have honed my skills in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting.
 
