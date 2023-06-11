@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Test Archive
-title2: About
+title: About
 ---
 
 <h2>{{ page.title }}</h2>
