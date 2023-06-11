@@ -1,4 +1,3 @@
----
 layout: page
 title: Test Archive
 title2: About
@@ -12,4 +11,5 @@ title2: About
     {% endfor %}
   </ul>
 {% endfor %}
+
 <a href="/about">About</a>
