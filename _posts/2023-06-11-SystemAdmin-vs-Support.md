@@ -12,6 +12,7 @@ Unlike IT Support, System Administration is the field of administering server sy
 * Identity Access Management and Information Security/Cybersecurity.
 
 This makes system administration incredibly business centric. In many organizations, a SystemAdmin can control every piece of technology ranging from the doors (assuming digital locking system) to nearly every single endpoint through various enterprise and scripted/programmed solutions. They need to be able to perform their job at scale as best as possible. This means having a Disaster Recovery and Business Continuity Plan, having good Asset Management, having a good framework for IAM(Onboarding, Offboarding, Least Privlege relative to role). It also means having good documentation, 
+
 ---
 ## What is IT Support?
 
