@@ -2,6 +2,5 @@
 layout: page
 title: About
 ---
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  
+<h2>About</h2>
+<p>Lorem Ipsum.</p>
