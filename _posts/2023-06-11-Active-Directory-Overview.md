@@ -1,6 +1,15 @@
 ## What is Active Directory?
 
-Contrary to some people's perception, Microsoft Active Directory is not comprised of a single technology and is not neccesarily a dedicated IAM suite. Active Directory centers around directory services and is critical in the mapping of network resources to their respective addresses. In turn this make servers that are AD servers (called Domain Controllers) *directory servers*. AD DS (Active Directory - Directory Services), which is arguably the core AD product offered by microsoft, is an on prem domain management tool. When devices and users are grouped to domains (such as printers, PCs and new employees) they become subject to the DNS as they are now part of the Directory Server's domain (aka Domain Controller) - allowing policies/preferences from AD DS (GPOs/GPPs or Group Policies/Preferences) to control joined entitties. This allows for password resets, access permision capabilities,  endpoint management (with WuFB/WSUS), onboarding/offboarding, etc. There are other technologies such as Azure AD which is moreso dedicated to IAM services and is not a Domain Services platform (meaning it can not replace on prem AD DS).
+
+Microsoft Active Directory is a comprehensive suite of technologies that extends beyond a single component and is not solely focused on identity and access management (IAM). At its core, Active Directory revolves around directory services and plays a critical role in mapping network resources to their respective addresses. This means that servers running Active Directory, known as Domain Controllers, function as directory servers.
+
+The primary offering from Microsoft in the realm of Active Directory is Active Directory Domain Services (AD DS), which is an on-premises domain management tool. By organizing devices and users into domains, which can include printers, PCs, and new employees, they become part of the Directory Server's domain, also referred to as the Domain Controller. This integration with the Domain Name System (DNS) allows policies and preferences from AD DS, such as Group Policies/Preferences (GPOs/GPPs), to govern the behavior and settings of these joined entities.
+
+The capabilities of AD DS go beyond identity and access management. They encompass functionalities like password resets, access permission control, endpoint management through Windows Update for Business (WuFB) or Windows Server Update Services (WSUS), as well as onboarding and offboarding processes.
+
+While Active Directory Domain Services is a fundamental component of Microsoft's Active Directory, it is important to note that there are other technologies within the broader suite. Azure Active Directory (Azure AD), for instance, focuses more on providing IAM services and is not designed to replace on-premises AD DS. Azure AD offers cloud-based identity and access management features, including single sign-on, multi-factor authentication, and application provisioning.
+
+In summary, Microsoft Active Directory is a multifaceted suite of technologies centered around directory services, with AD DS serving as the core on-premises domain management tool. While AD DS enables comprehensive control over network resources and entities joined to domains, other components such as Azure AD focus on IAM services in the cloud and are not intended to replace AD DS.
 
 ---
 
