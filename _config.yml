@@ -34,4 +34,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Blog Post Archive
+      tags: Posts-Archive 
