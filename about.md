@@ -12,4 +12,4 @@ My proficiency in troubleshooting and resolving technical issues has allowed me 
 
 I stay abreast of industry developments and emerging technologies to ensure that I provide the best possible support and deliver innovative solutions. My dedication to continuous learning and professional growth enables me to meet the evolving IT needs of businesses, streamline processes, and enhance overall productivity.
 
-As a Junior System Administrator with experience in SMBs and a willingness to embrace enterprise opportunities, I am well-equipped to handle a variety of IT environments and contribute to the success of organizations through reliable system administration and IT operations</p>
+As a Junior System Administrator with experience in SMBs and a willingness to embrace enterprise opportunities, I am well-equipped to handle a variety of IT environments and contribute to the success of organizations through reliable system administration</p>
