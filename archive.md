@@ -4,6 +4,9 @@ title: Test Archive
 title2: About
 ---
 
+<h2>{{ page.title }}</h2>
+<a href="/about">About</a>
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -12,5 +15,3 @@ title2: About
     {% endfor %}
   </ul>
 {% endfor %}
-
-<a href="/about">About</a>
