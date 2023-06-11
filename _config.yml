@@ -1,39 +1,35 @@
-title: "My Blogs Name"
+# Site settings
+title: "My Blog's Name"
 author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Some short description of your blog can go here."
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
+# Email / Social media usernames
 email: "example@mail.com"
 twitter_username: "twitteruser"
 github_username: "githubuser"
 linkedin_username: "linkedinuser"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
+# Build settings
+theme: minima
 
-rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-titles_from_headings:
-  strip_title: true
-  collections: true
+# Markdown settings
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 
+# Navigation
+nav_links:
+  - title: Home
+    url: "/"
+  - title: About
+    url: "/about/"
+
+# Defaults
 defaults:
   - scope:
       path: ""
