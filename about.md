@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<p>I am Daniel, a dedicated Junior System Administrator with a strong passion for System Administration and IT Operations. I have accumulated valuable experience working in small and mid-sized businesses, where I have honed my skills in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting.
+<p>My name is Daniel and I am a dedicated Junior System Administrator with a strong passion for System Administration and IT Operations. I have accumulated valuable experience working in small and mid-sized businesses, where I have honed my skills in Hyper-V, Active Directory, Windows Server, DNS/DHCP, and scripting.
 
 Throughout my career, I have had the opportunity to administer Office Suite/Office 365 and support the IT infrastructure of SMBs. By managing enterprise servers and smaller  corporate computer networks, I have gained hands-on experience in maintaining the stability and functionality of critical systems.
 
