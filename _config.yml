@@ -6,28 +6,23 @@ email: "daniel.marshak@mail.com"
 github_username: "SysAdminHelp"
 linkedin_username: "daniel-marshak"
 
-theme: "jekyll-theme-just-the-docs"
+theme: "just-the-docs"
 
-rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-
-remote_theme: pmarsceill/just-the-docs
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-remote-theme
 
-titles_from_headings:
-  strip_title: true
-  collections: true
+remote_theme: pmarsceill/just-the-docs
 
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
-      tags:
-        - Other
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
