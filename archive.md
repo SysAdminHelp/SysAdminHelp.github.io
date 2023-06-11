@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Archive
-title: About
+title2: About
 
 ---
 
