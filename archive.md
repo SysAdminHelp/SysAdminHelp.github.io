@@ -2,7 +2,6 @@
 layout: page
 title: Test Archive
 title2: About
-
 ---
 
 {% for tag in site.tags %}
@@ -13,3 +12,4 @@ title2: About
     {% endfor %}
   </ul>
 {% endfor %}
+<a href="/about">About</a>
