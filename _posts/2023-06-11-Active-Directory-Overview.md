@@ -11,6 +11,12 @@ While Active Directory Domain Services is a fundamental component of Microsoft's
 
 In summary, Microsoft Active Directory is a multifaceted suite of technologies centered around directory services, with AD DS serving as the core on-premises domain management tool. While AD DS enables comprehensive control over network resources and entities joined to domains, other components such as Azure AD focus on IAM services in the cloud and are not intended to replace AD DS.
 
+## AD DS Best Practices - Small and Medium Enterprise
+
+When deploying Active Directory Domain Services (AD DS) at the SMB level, it is common to have a single forest and a single domain, especially if the company has only one office. This simplified setup makes management easier as you don't have to deal with child domains or complex hierarchical structures.To ensure high availability and fault tolerance, it is recommended to deploy a second Domain Controller (server) in the environment. Both domain controllers should host DNS (Domain Name System) and DHCP (Dynamic Host Configuration Protocol) services. This setup ensures that if the primary domain controller fails, the secondary domain controller can take over these essential services, allowing business operations to continue without interruption.Active Directory's replication functionality facilitates the synchronization of data between the primary and secondary domain controllers. This replication ensures that changes made on one domain controller are propagated to others, maintaining consistent and up-to-date information across the network. When configuring new users in AD DS, it is crucial to follow the principle of least privilege. This principle emphasizes assigning users the minimum level of access and permissions necessary to perform their job functions. By adhering to this principle, you reduce the risk of unauthorized access or accidental misuse of resources, thus enhancing cybersecurity and minimizing potential vulnerabilities.
+
+
+
 ---
 
 
