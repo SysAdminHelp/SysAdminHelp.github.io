@@ -1,6 +1,11 @@
-## Greetings!
+## What is System Administration?
 
-I hope you enjoy this blog as it gets updated with content going forward. This blog will cover various topics regarding System Administration that I learn about over time.
+Unlike IT Support, System Administration is the field of administering server systems and computer networks (depending on if the SysAdmin is also the NetAdmin for that given organization). In order to do this successfully - a system administrator needs to adapt to various internal and external factors including but not limited to
+* Architecture of the infrastructure
+* Vendor cost
+* Nature of the business 
+* Service Level Agreements 
+* Asset Management 
 
 ---
 
