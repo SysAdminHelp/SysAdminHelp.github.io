@@ -18,7 +18,7 @@
   #share-buttons > div.mail > svg {height: 14px; margin-top: 11px;}
 </style>
 
-{% assign safeurl = site.title2  | append: page.title2  | url_encode %}
+{% assign safeurl = site.author  | append: page.author  | url_encode %}
 {% assign safetitlepre = " " | append: page.title2 | append: " - " | url_encode %}
 
 <span style="color: silver;">Share on: </span><div id="share-buttons">
