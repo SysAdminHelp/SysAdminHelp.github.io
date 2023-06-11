@@ -1,28 +1,42 @@
-title: "SysAdminHelp"
-author: "SysAdminHelp"
-description: "A blog dedicated to the System Administration profession, made by a Junior System Administrator!"
+title: "My Blogs Name"
+author: "Default Author Name"
+description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-email: "daniel.marshak@mail.com"
-github_username: "SysAdminHelp"
-linkedin_username: "daniel-marshak"
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "example@mail.com"
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
 
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
 theme: "minima"
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-remote-theme
+rss: rss
 
-remote_theme: pmarsceill/just-the-docs
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
 
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: post
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      tags: Other
