@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Test Archive
 title2: About
 
 ---
