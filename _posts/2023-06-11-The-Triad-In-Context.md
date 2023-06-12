@@ -22,3 +22,7 @@ Logical Control: Implementing redundant power supplies for a Windows Server is a
 Physical Control: Physical security measures such as uninterruptible power supply (UPS) systems and backup generators help maintain availability. UPS systems provide power backup in case of electricity outages or fluctuations, while backup generators can provide longer-term power supply during extended outages, ensuring continuous availability of critical systems.
 
 **System administrators play a vital role in implementing and managing controls that protect sensitive data, secure network infrastructure, and maintain the overall integrity of systems. They are responsible for configuring and maintaining security mechanisms such as access controls, encryption, intrusion detection systems, and more.**
+
+what-is-the-cia-triad-thumbnail
+
+![what-is-the-cia-triad-thumbnail](/what-is-the-cia-triad-thumbnail.jpeg)
