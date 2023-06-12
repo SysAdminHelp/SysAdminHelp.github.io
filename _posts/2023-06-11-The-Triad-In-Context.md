@@ -23,6 +23,4 @@ Physical Control: Physical security measures such as uninterruptible power suppl
 
 **System administrators play a vital role in implementing and managing controls that protect sensitive data, secure network infrastructure, and maintain the overall integrity of systems. They are responsible for configuring and maintaining security mechanisms such as access controls, encryption, intrusion detection systems, and more.**
 
-what-is-the-cia-triad-thumbnail
-
 ![what-is-the-cia-triad-thumbnail](/what-is-the-cia-triad-thumbnail.jpeg)
