@@ -31,6 +31,8 @@ The hierarchy for how Group Policies work in AD-DS can be described as follows:
 
 Imagine a single domain as a small organization with all its employees, departments, and resources managed under one umbrella. Now, let's see how it can grow and transform into larger structures:
 
+## Evolution of Domains/AD Architecture 
+
 * Single Domain to Tree Domain:
 As the organization expands, it may need to organize its resources better. To do this, they can create different sections within the organization called "child domains." Each child domain can represent a department or a branch office, and they are connected to the main domain.
 This creates a tree-like structure where the main domain is like the tree trunk, and the child domains are the branches. Each branch/domain can have its own set of users, groups, and resources, making it easier to manage and delegate tasks.
