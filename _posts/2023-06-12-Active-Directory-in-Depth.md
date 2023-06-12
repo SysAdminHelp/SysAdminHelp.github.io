@@ -27,5 +27,10 @@ This creates a tree-like structure where the main domain is like the tree trunk,
 
 * Tree Domain to Forest Domain:
 Sometimes, the organization may grow even larger or acquire other companies. In such cases, they might want to connect multiple tree domains together. This is where a forest domain comes into play.
-A forest domain is like a big forest with multiple trees (domain trees) growing within it. Each domain tree can represent a separate organization or a group of related domains.
-The forest domain allows these domain trees to share a common set of rules, policies, and resources. It provides a way for different organizations or groups to collaborate and work together effectively.
+A forest domain is like a big forest with multiple trees (domain trees) growing within it. Each domain tree can represent a separate organization or a group of related domains. The forest domain allows these domain trees to share a common set of rules, policies, and resources. It provides a way for different organizations or groups to collaborate and work together effectively. The global catalog in a forest domain is a directory that stores summarized information about all the objects in the entire forest. It helps quickly find and access data across different domains and enables smooth communication and resource sharing and serves sort of as like a dictionary involving users, computers etc. 
+
+
+
+
+
+
