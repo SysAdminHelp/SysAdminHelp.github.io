@@ -9,8 +9,18 @@ There are several objects that are key to nearly any Active Directory-Directory 
 * Site: Represents a physical location in the network.
 * Schema: Defines the structure of objects in Active Directory.
 
-Active Directory enviornments as mentioned in the prior post can range from small to large in complexity. This especially applies to the domain structure:
+The hierarchy for how Group Policies work in AD-DS can be described as follows:
+* Local GPO: Applied to individual computers, stored locally, and takes precedence over other GPOs.
 
+* Site GPO: Linked to Active Directory sites, applied to all computers within a specific site.
+
+* Domain GPO: Linked to an entire Active Directory domain, applied to all objects within the domain unless overridden.
+
+* OU GPO: Linked to specific Organizational Units (OUs) within a domain, applied to objects within those OUs.
+
+* Active Directory enviornments as mentioned in the prior post can range from small to large in complexity. This especially applies to the domain structure:
+
+## Domain Types
 * Single Domain: This is the simplest type of domain structure used in small to medium-sized organizations. Everything, such as users, groups, and computers, is contained within a single domain.
 
 * Tree Domain: A tree domain is a hierarchical structure that connects multiple domains together. They share a common parent-child relationship, with a root domain at the top. This structure allows for centralized management and delegation of administrative tasks.
