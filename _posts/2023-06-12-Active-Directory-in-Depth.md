@@ -41,6 +41,19 @@ This creates a tree-like structure where the main domain is like the tree trunk,
 Sometimes, the organization may grow even larger or acquire other companies. In such cases, they might want to connect multiple tree domains together. This is where a forest domain comes into play.
 A forest domain is like a big forest with multiple trees (domain trees) growing within it. Each domain tree can represent a separate organization or a group of related domains. The forest domain allows these domain trees to share a common set of rules, policies, and resources. It provides a way for different organizations or groups to collaborate and work together effectively. The global catalog in a forest domain is a directory that stores summarized information about all the objects in the entire forest. It helps quickly find and access data across different domains and enables smooth communication and resource sharing and serves sort of as like a dictionary involving users, computers etc. 
 
+##  Multi Forest Domain deployment
+
+Below is an image of what a multi forest environment could look like. Multi forest enviornments are essentially seperate clusters of domains integrated together through trust relationships. Trust relationships in AD cover the following areas generally in the context of a incredibly large enterprise.
+
+* Users can log in to a trusted domain/forest with their credentials and access resources like files, applications, and services within that trusted environment.
+
+* Sharing of resources such as files, folders, and printers between domains or forests. Users can be granted permissions to access resources in the trusted domain/ forest.
+
+* Collaboration in Exchange Server environments. Users from different domains or forests can access email services, mailboxes, and other Exchange resources in the trusted domain/forest.
+
+* Synchronization of group memberships across domains or forests. Users can be added to groups in the trusted domain/forest, allowing centralized access management and permission assignment.
+
+
 ![Multiple-AD-forests-and-domains-600x442.png](/Multiple-AD-forests-and-domains-600x442.png)
 
 
