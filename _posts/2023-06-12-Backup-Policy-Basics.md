@@ -1,5 +1,5 @@
 ### Why Do We Need A Backup Plan?
-Backup plans/policies are essential because without them a business ca not ensure the continuity of it's operations. For example in a company, if the production enviro goes bad, there needs to be backups to restore from in order to limit down time for the company. This is where a robust backup policy comes into play
+Backup plans/policies are essential because without them a business can not ensure the continuity of it's operations. For example in a company, if the production enviro goes bad, there needs to be backups to restore from in order to limit down time for the company. This is where a robust backup policy comes into play
 
 
 ### Basic Backup Plan: The 3-2-1 Backup Policy
