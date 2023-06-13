@@ -7,10 +7,10 @@ Firstly, one needs to use platforms such as Google's platform or Microsoft 365 t
 server you would want to use. The following is the information you would probably fill in/utilize for the Gmail SMTP server most accounts would use. Take note - that there are two ports you can use, each utilizing a different network communication protocol,
 I would suggest using the TLS one because it is more secure and uses newer technology than the SSL one. 
 
-Gmail SMTP server address: smtp.gmail.com
-Gmail SMTP username: Your full Gmail address (e.g. you@gmail.com)
-Gmail SMTP password: The password that you use to log in to Gmail
-Gmail SMTP port (TLS): 587
-Gmail SMTP port (SSL): 465
+* Gmail SMTP server address: smtp.gmail.com
+* Gmail SMTP username: Your full Gmail address (e.g. you@gmail.com)
+* Gmail SMTP password: The password that you use to log in to Gmail
+* Gmail SMTP port (TLS): 587
+* Gmail SMTP port (SSL): 465
 
 Two products you can do this with are OSTicket and Vaaem for example. 
