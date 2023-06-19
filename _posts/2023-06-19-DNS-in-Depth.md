@@ -17,6 +17,17 @@ There are many DNS record type with different functionalities.  For example, MX 
 ![DNS-RECORD.png](/DNS-RECORD.png)
 
 
+## DNS: Forward and Reverse Lookup Zones 
+A DNS forward lookup zone is responsible for translating domain names into IP addresses, allowing us to access websites and online resources.  
+A reverse lookup zone performs the opposite task by resolving IP addresses back to their associated domain names. Forward and Reverse Lookups are useful for troubleshooting network issues and verifying the legitimacy of incoming connections. Together, forward lookup zones and reverse lookup zones ensure smooth and accurate communication between domain names and IP addresses on the internet. These forward and reverse look up zones is where you would also find A records, etc. 
+
+
+
+
+
+
+
+
 
 
 
