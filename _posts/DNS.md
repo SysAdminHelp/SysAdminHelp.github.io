@@ -4,6 +4,6 @@ Small and medium enterprise (SME) businesses need a strong online presence to re
 
 **Domain Registration** enables SMEs to secure and register their desired domain names. This establishes a memorable online identity and fosters brand recognition. Additionally, DNS ensures seamless email delivery by configuring MX records, directing emails to the correct servers for efficient communication.
 
-**Website Hosting** is facilitated by linking domain names to servers that host SMEs' websites. This simplifies customer access to their online presence. During peak web traffic, DNS-based load balancing distributes incoming requests across multiple servers, ensuring optimal website performance.
+**Website Hosting** is facilitated by linking domain names to servers that host SMEs' websites. This simplifies customer access to their online presence. During peak web traffic periods for an SME, DNS-based load balancing can be enabled to distribute incoming requests across multiple servers, ensuring optimal website performance.
 
-DNS also plays a critical role in disaster recovery measures by configuring multiple DNS servers and implementing DNS failover. This guarantees continuous availability of online services, even if one server experiences a failure.
+**Disaster Recovery**  is achieved by having multiple DNS servers configured and having DNS failover implemented. This guarantees continuous availability of online services, even if one server experiences a failure.
