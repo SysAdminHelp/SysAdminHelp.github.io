@@ -1,6 +1,6 @@
 ## DNS: Function and Use Cases
 
-Small and medium enterprise (SME) businesses need a strong online presence to remain competitive. A crucial component in achieving this is the Domain Name System (DNS), which serves SMEs in several essential areas, ensuring their online success. These functions broadly fall into three categories, but note they do not cover every exact thing
+Small and medium enterprise (SME) businesses need a strong online presence to remain competitive. A crucial component in achieving this is the Domain Name System (DNS), which serves SMEs in several essential areas, ensuring their online success. These functions broadly fall into three categories, but note they do not cover every exact thing. Many people often think of DNS strictly as a name resolution protocol when in reality it is far more complex.
 
 **Domain Registration** enables SMEs to secure and register their desired domain names. This establishes a memorable online identity and fosters brand recognition.
 
