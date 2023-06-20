@@ -17,3 +17,5 @@ The 5 main hives of the Windows Registry include the following
 Active Directory GPOs tend to apply to only 2 of the 5 hives. HKEY_LOCAL_MACHINE and HKEY_CURRENT_USER. LOCAL_MACHINE keys are the configuration files that apply to anyone on a given endpoint since its a configuration for the machine in particular. CURRENT_USER keys are the configuration files that apply to that specific user and not the endpoint.
 
 ## Example 
+
+![REGISTRY EXAMPLE](/REGISTRY EXAMPLE.PNG)
