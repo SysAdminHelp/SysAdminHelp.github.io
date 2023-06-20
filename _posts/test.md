@@ -18,6 +18,7 @@ Active Directory GPOs tend to apply to only 2 of the 5 hives. HKEY_LOCAL_MACHINE
 
 ## Example 
 To demonstrate with an example, the following is the registry key changes for the GPO policy to let windows apps access contacts. Pay close attention to the hive being used.
+
 ![REGISTRY-EXAMPLE.PNG](/REGISTRY-EXAMPLE.PNG)
 
 
