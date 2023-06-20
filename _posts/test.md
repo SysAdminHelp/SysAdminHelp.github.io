@@ -18,7 +18,7 @@ Active Directory GPOs tend to apply to only 2 of the 5 hives. HKEY_LOCAL_MACHINE
 
 ## Example 
 
-![REGISTRY-EXAMPLE.png](/REGISTRY-EXAMPLE.png)
+![REGISTRY-EXAMPLE](/REGISTRY-EXAMPLE.png)
 
 
 
