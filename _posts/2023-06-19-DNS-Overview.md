@@ -21,7 +21,7 @@ There are many DNS record type with different functionalities.  For example, MX 
 
 **Forward Lookup Zone**: responsible for translating domain names into IP addresses, allowing us to access websites and online resources.  
 
-**Reverse Lookup Zone:** performs the opposite task by resolving IP addresses back to their associated domain names. 
+**Reverse Lookup Zone:** performs the opposite task by resolving IP addresses back to their associated domain names. Reverse Lookup is unique in that it relies on the PTR records discussed prior. 
 
 Forward and Reverse Lookups are often useful for troubleshooting network issues and verifying the legitimacy of incoming connections. Together, forward lookup zones and reverse lookup zones ensure smooth and accurate communication between domain names and IP addresses on the internet. These forward and reverse look up zones is where you would also find A records, etc. 
 
