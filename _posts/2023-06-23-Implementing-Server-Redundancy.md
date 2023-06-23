@@ -1,4 +1,4 @@
-##Importance of server redundancy
+## Importance of Server Redundancy
 
 Redundancy is a crucial component of availability in the CIA triad of information security. In the context of a Windows Server, redundancy is achieved through measures such as server clustering, RAID, redundant network interfaces, and power redundancy. These mechanisms minimize single points of failure and ensure uninterrupted access to services and data for your organization.
 
