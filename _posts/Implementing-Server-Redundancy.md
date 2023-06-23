@@ -14,4 +14,4 @@ Power Redundancy: Reliability - Power redundancy ensures reliable operation by u
 Offsite Data Replication: Disaster Recovery - Offsite data replication involves creating redundant copies of data in a secondary location. It provides a crucial disaster recovery measure, protecting against site-level disasters, hardware failures, or data corruption. In the event of a disaster, the replicated data can be used to restore services quickly and minimize data loss.
 
 
-![153](/153.png)
+![153](/153.jpg)
