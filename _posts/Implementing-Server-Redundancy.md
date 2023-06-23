@@ -1,9 +1,11 @@
-## Enterprise Server Redundancy:
+## Importance of server redundancy
 
+Redundancy is a crucial component of availability in the CIA triad of information security. In the context of a Windows Server, redundancy is achieved through measures such as server clustering, RAID, redundant network interfaces, and power redundancy. These mechanisms minimize single points of failure and ensure uninterrupted access to services and data for your organization.
 
+## Five Approaches for Implementing Server Redundancy
 Clustering: Resilience - Clustering provides a resilient solution by creating a group of servers that work together as a single system. It ensures high availability and minimizes downtime by automatically redistributing the workload if one server fails.
 
-RAID: Redundancy - RAID technology offers redundancy by combining multiple physical hard drives into a single logical unit. It protects against data loss and improves fault tolerance. Different RAID levels provide various redundancy mechanisms such as mirroring, striping, or parity.
+RAID: Redundancy - RAID technology offers redundancy by combining multiple physical hard drives into a single logical unit. It protects against data loss and improves fault tolerance. Different RAID levels provide various redundancy mechanisms such as mirroring, striping, or parity. RAID 5,6, and 10(1+0) are common configurations used in enterprise servers.
 
 Multiple Network Interfaces: Connectivity - Having multiple network interfaces allows for redundant network connections. By bonding multiple network adapters together, you can ensure continuous network connectivity even if one adapter or network link fails.
 
