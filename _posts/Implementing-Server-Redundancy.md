@@ -12,3 +12,5 @@ Multiple Network Interfaces: Connectivity - Having multiple network interfaces a
 Power Redundancy: Reliability - Power redundancy ensures reliable operation by utilizing redundant power supplies or UPS systems. If one power source fails, the redundant power supply or backup power from a UPS takes over, preventing power-related disruptions and minimizing downtime.
 
 Offsite Data Replication: Disaster Recovery - Offsite data replication involves creating redundant copies of data in a secondary location. It provides a crucial disaster recovery measure, protecting against site-level disasters, hardware failures, or data corruption. In the event of a disaster, the replicated data can be used to restore services quickly and minimize data loss.
+
+![153.png](/153.jpeg)
