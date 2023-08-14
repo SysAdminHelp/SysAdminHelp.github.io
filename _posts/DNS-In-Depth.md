@@ -9,5 +9,5 @@ The following is the results of a DNS recursion test on amazon.com - Notice whil
 
 
 
-![DNS-Iteration-to-Recursion-Example.png](/DNS-Iteration-to-Recursion-Example.png)
+![DNS Iteration to Recursion Example.png](/DNS Iteration to Recursion Example.png)
 
