@@ -8,3 +8,6 @@ https://dns-lookup.jvns.ca/trace.html#amazon.com
 The following is the results of a DNS recursion test on amazon.com - Notice while it is not mentioned that the first step begins with the root - this is because the recursive process you see here already had iteration occur behind the scenes. This should give you an idea how DNS recursion works (notice the IP Addresses mentioned up top and how the DNS Resolver is at play).
 
 
+
+![DNS-Iteration-to-Recursion-Example.png](/DNS-Iteration-to-Recursion-Example.png)
+
