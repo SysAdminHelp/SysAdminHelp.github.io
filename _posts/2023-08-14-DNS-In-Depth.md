@@ -7,6 +7,6 @@ https://dns-lookup.jvns.ca/trace.html#amazon.com
 
 The following is the results of a DNS recursion test on amazon.com - Notice while it is not mentioned that the first step begins with the root - this is because the recursive process you see here already had iteration occur behind the scenes. This should give you an idea how DNS recursion works (notice the IP Addresses mentioned up top and how the DNS Resolver is at play).
 
-Below is an example of a query coming from one endpoint with no corresponding records for it at the TLD/Auth NS level - so it iterates immediately to a root server from a local DNS Server and then recurses down to the target host after reaching the root.
+Below is an example of a query coming from one endpoint with no corresponding records for it at the TLD/Auth NS level - so it iterates immediately to a root server from a local DNS Server and then recurses down to the target host after reaching the root's Auth NS
 
 ![DNS-Iteration-to-Recursion-Example.jpg](/DNS-Iteration-to-Recursion-Example.jpg)
