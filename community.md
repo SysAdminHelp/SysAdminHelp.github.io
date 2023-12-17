@@ -10,7 +10,7 @@ This is an amazing discord community I am apart of that has helped me grow as an
 
 ## 0xBen Blog
 
-The man, the myth, the legend! Incredibly knowledgable on system administration topics!
+The man, the myth, the legend! Incredibly knowledgable on a large number of domains. Best resource hands down for spinning up your own virtualized network to practice.
   
   <a href="https://benheater.com/blog/">Check his blog out </a>
 
