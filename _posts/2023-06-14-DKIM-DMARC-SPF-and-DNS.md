@@ -1,5 +1,5 @@
 ---
-title: DKIM DMARC And SPF
+title: DKIM DMARC and SPF
 ---
 
 ## What are DKIM/DMARC/SPF for?
