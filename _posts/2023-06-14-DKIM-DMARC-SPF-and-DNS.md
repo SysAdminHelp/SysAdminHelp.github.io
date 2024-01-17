@@ -1,3 +1,7 @@
+---
+title: DKIM DMARC And SPF
+---
+
 ## What are DKIM/DMARC/SPF for?
 DKIM, DMARC, and SPF are essential email security protocols that combat phishing and spoofing attacks. Let's explore their roles and how they utilize DNS for enhanced security. These technologies have a very heavy reliance on Domain Name Services.
 
