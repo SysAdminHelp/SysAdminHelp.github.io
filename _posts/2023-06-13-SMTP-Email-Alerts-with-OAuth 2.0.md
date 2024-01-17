@@ -1,3 +1,6 @@
+---
+title: SMTP Email Alerts with OAuth 2.0
+---
 ## Why would one use email alerts?
 The reason one would use email alerts is because day to day operations at a company can sometimes get so hectic that it can be difficult to sometimes spare a minute to be able to sufficiently check things. Products like ticketing systems and backup systems often come with these services as a feature. One way of setting up alerts securely would be to utilize OAUth2.0 authorization/authentication to utilize SMTP services. 
 
