@@ -1,5 +1,5 @@
 ---
-title: The-Four-Types-Of-AD-Deployments
+title: The Four Types Of AD Deployments
 ---
 
 ## AD Deployment Types
